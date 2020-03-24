@@ -30,3 +30,6 @@ I don't have much experience in programming but I have ability to learn fast and
 ### Education
 I graduated Management from the Jagiellonian University. I have a master's degree.
 
+### Languages
+* Polish - native
+* English - upper intermediate 
