@@ -29,7 +29,7 @@ I don't have much experience in programming but I have ability to learn fast and
 ### My experience
 * 11/2019 - 02/2020 - Front End Developer course organized by Akademia 108
 * 03/2020 - Front-end Mentoring Program in Poland organized by The Rolling Scopes School
-* Codewars - 6kyu - 187 points
+* Codewars - 4kyu - 710 points
 
 ### Education
 I graduated Management from the Jagiellonian University. I have a master's degree.
