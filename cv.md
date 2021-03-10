@@ -8,19 +8,23 @@
 ### About me
 I am ambitious and diligent person who likes people and teamworking. In February 2020 I completed Frontend Developer course organized by Akademia108 in Kraków. Year ago I also took a part in Rooling Scopes School 2020.
  
-I don't have much experience in programming but I have ability to learn fast and I never hesitate to ask questions when my knowledge is not enough. 
+I don't have much experience in programming but I have ability to learn fast and I never hesitate to ask questions when my knowledge is not enough. I am currently doing an internship as a Frontend Developer at Millenium Studio from Krakow.
 
 ### My skills
 * HTML5
 * CSS3
 * JavaScript
 * GIT
+* jQuery
 * Bootstrap
+* Gulp-Sass
+* WordPress (ACF, WooCommerce)
 
 #### I'm learning
 * React 
-* Gulp-Sass
-* WordPress
+* Smarty
+* Php
+* TypeScript
 
 ### My experience
 * 11/2019 - 02/2020 - Front End Developer course organized by Akademia 108
