@@ -19,12 +19,13 @@ I don't have much experience in programming but I have ability to learn fast and
 * Bootstrap
 * Gulp-Sass
 * WordPress (ACF, WooCommerce)
+* RWD 
 
 #### I'm learning
 * React 
-* Smarty
 * Php
-* TypeScript
+* TypeScript (basic)
+* SQL
 
 ### My experience
 * 11/2019 - 02/2020 - Front End Developer course organized by Akademia 108
