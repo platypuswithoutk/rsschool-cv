@@ -6,9 +6,9 @@
 * [GitHub](https://github.com/platypuswithoutk)
 
 ### About me
-I am ambitious and diligent person who likes people and teamworking. In February 2020 I completed Frontend Developer course organized by Akademia108 in Kraków. After the course I learn ReactJS. 
+I am ambitious and diligent person who likes people and teamworking. In February 2020 I completed Frontend Developer course organized by Akademia108 in Kraków. Year ago I also took a part in Rooling Scopes School 2020.
  
-I don't have much experience in programming but I have ability to learn fast and I never hesitate to ask questions when my knowledge is not enough. In my future work I would like to have resourceful and knowledge sharing team.
+I don't have much experience in programming but I have ability to learn fast and I never hesitate to ask questions when my knowledge is not enough. 
 
 ### My skills
 * HTML5
